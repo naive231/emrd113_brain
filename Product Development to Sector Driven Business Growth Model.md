@@ -37,4 +37,7 @@
 		- Empower the user.
 	- Take Industry 4.0 as an example
 		- machine monitoring & predictive maintenance
-		- datasolution based.
+		- big data to better prediction based
+		- solution based.
+		- What is Industry 5.0? Add AI.
+		- 
