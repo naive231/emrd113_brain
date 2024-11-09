@@ -40,4 +40,15 @@
 		- big data to better prediction based
 		- solution based.
 		- What is Industry 5.0? Add AI.
-		- 
+	- Intelligent City Services
+		- iCity Services & iLogistics Edge-SRP Offering
+			- Cold Chain Management
+			- ePaper Management
+			- People Counting & Heatmap
+			- Interactive Digital Signage
+			- Facial Recognition
+		- iHostpital Edge-SRP Offering
+			- Medication Dispensing
+			- Intelligent Ward
+			- Queuing & Check-in
+			- Hospital RTLS
