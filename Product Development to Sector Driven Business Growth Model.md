@@ -62,7 +62,14 @@
 		- Use "Mission Critical" as the PR's term.
 	- High Growth Route
 		- Embedded IoT Sector
-		- 
+		- - 
 		- Emerging Sector
 	- Seize the Opportunity: AI on the Edge
-		- 
+		- Emerging Markets Driven by Edge AI
+			- Machine Vision
+			- Robot
+			- -
+			- -
+			- -
+		- The PC Reborn
+			- 
