@@ -58,3 +58,5 @@
 		- Take the China market for an example
 			- Use local team to develop low end products
 			- Use Taiwan team to develop high end products.
+	- Military-Grade Solutions
+		- Use "Mission Critical" as the phrase to press.
