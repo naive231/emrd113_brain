@@ -54,3 +54,4 @@
 			- Queuing & Check-in
 			- Hospital RTLS
 	- Small niche product is what Advantech focused.
+		- But there risks of course. Some of products are also failed.
