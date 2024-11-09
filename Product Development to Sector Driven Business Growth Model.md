@@ -8,4 +8,12 @@
 - AKTC/林口園區直接作為AIoT的客戶體驗基地.
 - 「工業電腦」的定義是: 「個人」和「辦公室」以外的電腦,各行各業用來解決問題的電腦.
 - 研華的轉型,基本上是「軟體」的轉型.
-- 
+- 《實踐阿米巴(AMOEBA)經營》by 稻盛和夫
+	- 揭露每件產品的正確成本,員工才會專注創造附加價值.
+	- 授權員工掌握目標,
+- Niche-SBU Cluster Growth Model of Advantech
+	- Focus and Dedication as a Global Industry Leader
+	- Duplicate Niche-SBU Cluster
+	- Maximize the Revenue and Minimize the Cost
+	- [ ] How to apply to technical support unit?
+		- Focus on "selling" or "innovation"?
