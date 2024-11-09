@@ -4,3 +4,5 @@
 
 主題是AIOT.
 
+- 在研華之前,是在Phoenix BIOS任職
+- 
