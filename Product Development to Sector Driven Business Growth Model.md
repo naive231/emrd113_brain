@@ -53,3 +53,4 @@
 			- Intelligent Ward
 			- Queuing & Check-in
 			- Hospital RTLS
+	- Small niche product is what Advantech focused.
