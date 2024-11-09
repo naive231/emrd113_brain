@@ -23,4 +23,18 @@
 	- Use IBM's ==BLM(Business Leadership Model)== to cultivate Biz. leaders.
 	- They also have military business, but they keep **very low profile** all the way, use local staff to run operations.
 - 產業驅動的成長經營模式(Sector Driven Transformation)
-	- 
+	- Branches multiple product lines to support the sector operations.
+	- Take Industrial IoT Sector-Driven
+		- Industrial Automation
+		- Smart Factory
+		- Smart Equipments
+		- Energy and Power
+		- Smart Teleportation
+	- Product Design
+		- Universal Type to Dedicated Type
+		- Application and Solution based.
+		- Market operation: Product Driven to Industrial Driven
+		- Empower the user.
+	- Take Industry 4.0 as an example
+		- machine monitoring & predictive maintenance
+		- solution based.
