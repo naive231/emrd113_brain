@@ -17,3 +17,4 @@
 	- Maximize the Revenue and Minimize the Cost
 	- [ ] How to apply to technical support unit?
 		- Focus on "selling" or "innovation"?
+	- The advantage of Advantech is customization and diversion.
