@@ -5,4 +5,5 @@
 主題是AIOT.
 
 - 在研華之前,是在Phoenix BIOS任職
+- AKTC/林口園區直接作為AIoT的客戶體驗基地.
 - 
