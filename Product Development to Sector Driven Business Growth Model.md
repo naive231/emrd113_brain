@@ -59,4 +59,10 @@
 			- Use local team to develop low end products
 			- Use Taiwan team to develop high end products.
 	- Military-Grade Solutions
-		- Use "Mission Critical" as the phrase to press.
+		- Use "Mission Critical" as the PR's term.
+	- High Growth Route
+		- Embedded IoT Sector
+		- 
+		- Emerging Sector
+	- Seize the Opportunity: AI on the Edge
+		- 
