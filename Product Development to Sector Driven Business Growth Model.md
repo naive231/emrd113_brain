@@ -26,10 +26,10 @@
 	- Branches multiple product lines to support the sector operations.
 	- Take Industrial IoT Sector-Driven
 		- Industrial Automation
-		- Smart Factory
-		- Smart Equipments
+		- Intelligent Factory
+		- Intelligent Equipments
 		- Energy and Power
-		- Smart Teleportation
+		- Intelligent Teleportation
 	- Product Design
 		- Universal Type to Dedicated Type
 		- Application and Solution based.
@@ -37,4 +37,4 @@
 		- Empower the user.
 	- Take Industry 4.0 as an example
 		- machine monitoring & predictive maintenance
-		- solution based.
+		- datasolution based.
