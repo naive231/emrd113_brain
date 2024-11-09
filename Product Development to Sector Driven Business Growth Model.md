@@ -24,6 +24,7 @@
 	- They also have military business, but they keep **very low profile** all the way, use local staff to run operations.
 - 產業驅動的成長經營模式(Sector Driven Transformation)
 	- Branches multiple product lines to support the sector operations.
+		- Different product lines have different sales, they talk different stories, promote different "solutions".
 	- Take Industrial IoT Sector-Driven
 		- Industrial Automation
 		- Intelligent Factory
