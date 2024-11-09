@@ -55,3 +55,6 @@
 			- Hospital RTLS
 	- Small niche product is what Advantech focused.
 		- But there risks of course. Some of products are also failed.
+		- Take the China market for an example
+			- Use local team to develop low end products
+			- Use Taiwan team to develop high end products.
