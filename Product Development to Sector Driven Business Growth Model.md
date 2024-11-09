@@ -18,3 +18,6 @@
 	- [ ] How to apply to technical support unit?
 		- Focus on "selling" or "innovation"?
 	- The advantage of Advantech is customization and diversion.
+		- The advantage is based on Software developments.
+	- Advantech's target revenue aims on high value market.
+	- 
